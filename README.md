@@ -3,8 +3,8 @@
 </h1>
 
 <div align="center">
-  <img align="center" src="https://visitcount.itsvg.in/api?id=sparkyGUY47&icon=1&color=12"/>
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=sparkyGUY47.sparkyGUY47" />
+  <img align="center" src="https://visitcount.itsvg.in/api?id=coderGIRL47&icon=1&color=12"/>
+  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=coderGIRL47.coderGIRL47" />
 </div>
 <br>
 
@@ -16,7 +16,7 @@
 <div align="center">
   
 ## 💫 About Me:
-🔭 I’m currently working on **Star IT Farm**<br>  <br>🌱 I’m currently learning **|Tailwind|MongoBD|**<br><br>👨‍💻 All of my projects are available at **|(github.com/sparkyGUY47)|**<br><br>💬 Ask me about **Html-CSS-Java-Js-C-ReactJs|**<br><br>📫 How to reach me **-- @sparkyGUY47 --**<br><br>🧑 Personality **-- Smartly HardWorking & Straight forward --**<br><br>⚡ Fun fact **!! Overflow : Hidden !!**
+🔭 I’m currently working on **Star IT Farm**<br>  <br>🌱 I’m currently learning **|Tailwind|MongoBD|**<br><br>👨‍💻 All of my projects are available at **|(github.com/coderGIRL47)|**<br><br>💬 Ask me about **Html-CSS-Java-Js-C-ReactJs|**<br><br>📫 How to reach me **-- @coderGIRL47 --**<br><br>🧑 Personality **-- Smartly HardWorking & Straight forward --**<br><br>⚡ Fun fact **!! Overflow : Hidden !!**
 
 
 ## 🌐 Socials:
@@ -37,12 +37,12 @@
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=sparkyGUY47&theme=calm&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=sparkyGUY47&theme=calm&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=sparkyGUY47&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=coderGIRL47&theme=calm&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=coderGIRL47&theme=calm&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=coderGIRL47&theme=calm&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=sparkyGUY47&theme=calm&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=coderGIRL47&theme=calm&no-frame=false&no-bg=true&margin-w=4)
 
 </div>
 
