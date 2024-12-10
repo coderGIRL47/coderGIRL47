@@ -4,7 +4,6 @@
 
 <div align="center">
   <img align="center" src="https://visitcount.itsvg.in/api?id=coderGIRL47&icon=1&color=12"/>
-  <img align="center" src="https://visitor-badge.laobi.icu/badge?page_id=coderGIRL47.coderGIRL47" />
 </div>
 <br>
 
