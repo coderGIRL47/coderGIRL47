@@ -35,6 +35,22 @@
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white) 
 
+<hr/>
+<h2 align="center">⚒️⚙️ Languages-Frameworks-Tools ⚙️⚒️</h2>
+<div align="center">
+    <img src="https://skillicons.dev/icons?i=illustrator,html,css,vscode,github" /> <br>   
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,figma,nodejs,javascript,tailwind" /> <br>   
+    <img src="https://skillicons.dev/icons?i=mongodb,c,java,nextjs,python,mysql" />
+</div>
+<br>
+<hr/>
+<div align="center">
+  <h2>📝 -Contributions- 📝</h2>
+     <img align-items="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/coderGIRL47/coderGIRL47/output/github-contribution-grid-snake.svg">
+    <br/>
+</div>
+<hr/>
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=coderGIRL47&theme=calm&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=coderGIRL47&theme=calm&hide_border=true)<br/>
